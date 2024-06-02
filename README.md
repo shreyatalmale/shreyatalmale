@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Talmale</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
+<img align="right" alt="coding" width="350" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyatalmale&label=Profile%20views&color=0e75b6&style=flat" alt="shreyatalmale" /> </p>
